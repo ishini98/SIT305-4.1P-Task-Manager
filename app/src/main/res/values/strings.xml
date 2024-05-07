@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">4.1P Task Manager</string>
+    <string name="TaskName">Task Name</string>
+    <string name="TaskManager">Task Manager</string>
+    <string name="IncompleteTasks">Incomplete Tasks</string>
+    <string name="ShowCompletedTasks">Show Completed Tasks</string>
+    <string name="MyTasks">My Tasks</string>
+    <string name="AddTask">Add Task</string>
+    <string name="etTaskNameHint">Enter a name for your task</string>
+    <string name="TaskDescription">Task Description</string>
+    <string name="etTaskDescHint">(Optional) Enter a description of the task.</string>
+    <string name="Back">Back</string>
+    <string name="Save">Save</string>
+    <string name="etDueDateHint">Enter a due date for your task.</string>
+    <string name="DueDate">Due Date</string>
+    <string name="EditTask">Edit Task</string>
+    <string name="Completed">Completed</string>
+    <string name="Delete">Delete</string>
+</resources>
